@@ -1,5 +1,5 @@
 # Hi there 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=figoaranta&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=figoaranta&show_icons=true&theme=dark"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figoaranta&layout=compact&hide=Jupyter%20Notebook&langs_count=5"/>
 
