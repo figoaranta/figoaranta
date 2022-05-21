@@ -7,7 +7,7 @@
 <img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-👀 Fun fact: The Mona Lisa has no eyebrows.
+👀 Fun fact: Did you know that The Mona Lisa has no eyebrows? 🤯
 
 <!--
 **figoaranta/figoaranta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
