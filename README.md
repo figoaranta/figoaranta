@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=figoaranta&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figoaranta&show_icons=true&theme=dark"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figoaranta&layout=compact&hide=Jupyter%20Notebook&langs_count=5&theme=dracula"/>
 </div>
 
