@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> -->
 
-👀 Fun fact: Did you know that The Mona Lisa has no eyebrows? 🤯
 <!--
 **figoaranta/figoaranta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
